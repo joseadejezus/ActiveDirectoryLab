@@ -51,8 +51,12 @@ DHCP:  <br/>
 <img src="https://imgur.com/FRWzfCf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Routing and Remote Access:  <br/>
+<img src="https://imgur.com/xhoDftJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+DNS:  <br/>
+<img src="https://imgur.com/hTXuREQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
