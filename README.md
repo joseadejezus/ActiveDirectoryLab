@@ -31,7 +31,7 @@ Domain Controller VM: <br/>
 <img src="https://imgur.com/uEyTZPv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Client1 VM:  <br/>
+Client 1 VM:  <br/>
 <img src="https://imgur.com/oe5XBZf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
